@@ -1,0 +1,43 @@
+refresh = 3
+version = 20160824.01
+
+urls = ['http://www.voltairenet.org/',
+'http://www.voltairenet.org/ar',
+'http://www.voltairenet.org/cs',
+'http://www.voltairenet.org/de',
+'http://www.voltairenet.org/el',
+'http://www.voltairenet.org/en',
+'http://www.voltairenet.org/es',
+'http://www.voltairenet.org/fa',
+'http://www.voltairenet.org/fi',
+'http://www.voltairenet.org/fr',
+'http://www.voltairenet.org/it',
+'http://www.voltairenet.org/nl',
+'http://www.voltairenet.org/no',
+'http://www.voltairenet.org/pl',
+'http://www.voltairenet.org/pt',
+'http://www.voltairenet.org/ro',
+'http://www.voltairenet.org/ru',
+'http://www.voltairenet.org/tr',
+'http://www.voltairenet.org/zh',
+'http://www.voltairenet.org/spip.php?page=backend&id_secteur=1110&lang=ar',
+'http://www.voltairenet.org/spip.php?page=backend&id_secteur=1110&lang=cs',
+'http://www.voltairenet.org/spip.php?page=backend&id_secteur=1110&lang=de',
+'http://www.voltairenet.org/spip.php?page=backend&id_secteur=1110&lang=el',
+'http://www.voltairenet.org/spip.php?page=backend&id_secteur=1110&lang=en',
+'http://www.voltairenet.org/spip.php?page=backend&id_secteur=1110&lang=es',
+'http://www.voltairenet.org/spip.php?page=backend&id_secteur=1110&lang=fa',
+'http://www.voltairenet.org/spip.php?page=backend&id_secteur=1110&lang=fi',
+'http://www.voltairenet.org/spip.php?page=backend&id_secteur=1110&lang=fr',
+'http://www.voltairenet.org/spip.php?page=backend&id_secteur=1110&lang=it',
+'http://www.voltairenet.org/spip.php?page=backend&id_secteur=1110&lang=nl',
+'http://www.voltairenet.org/spip.php?page=backend&id_secteur=1110&lang=no',
+'http://www.voltairenet.org/spip.php?page=backend&id_secteur=1110&lang=pl',
+'http://www.voltairenet.org/spip.php?page=backend&id_secteur=1110&lang=pt',
+'http://www.voltairenet.org/spip.php?page=backend&id_secteur=1110&lang=ro',
+'http://www.voltairenet.org/spip.php?page=backend&id_secteur=1110&lang=ru',
+'http://www.voltairenet.org/spip.php?page=backend&id_secteur=1110&lang=tr',
+'http://www.voltairenet.org/spip.php?page=backend&id_secteur=1110&lang=zh']
+regex = [r'^https?:\/\/[^\/]*voltairenet\.org']
+videoregex = []
+liveregex = []
